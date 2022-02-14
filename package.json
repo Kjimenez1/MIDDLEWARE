@@ -1,0 +1,14 @@
+{
+  "scripts":{
+    "start": "node server/index.js"
+  },
+
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
